@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoroniConsoleApp", "VoroniConsoleApp\VoroniConsoleApp.csproj", "{3BA4EB9B-3A43-4D72-8008-5B0AE76FBE5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regexp", "Regexp\Regexp.csproj", "{CEB31B8E-F2E2-40DC-884A-8382B9688435}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3BA4EB9B-3A43-4D72-8008-5B0AE76FBE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BA4EB9B-3A43-4D72-8008-5B0AE76FBE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BA4EB9B-3A43-4D72-8008-5B0AE76FBE5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB31B8E-F2E2-40DC-884A-8382B9688435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB31B8E-F2E2-40DC-884A-8382B9688435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB31B8E-F2E2-40DC-884A-8382B9688435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB31B8E-F2E2-40DC-884A-8382B9688435}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
